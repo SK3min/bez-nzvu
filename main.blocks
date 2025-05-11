@@ -1,0 +1,43 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="function_definition" id="dvo527X.rdB*}/8nU]RM" x="0" y="0"><mutation name="gg" functionid="]?bCL|-T,G){}^az]Mvc"><arg name="LOVE YOU" id="GR`zqU}Vy*K@hA]Q4@Z?" type="string"></arg><arg name="SRDCE" id="dDS]t6qbX[wo$$@tN|,2" type="Image"></arg></mutation><field name="function_name">gg</field><value name="GR`zqU}Vy*K@hA]Q4@Z?"><block type="argument_reporter_string" id="6,phohCR{JTZc`.WVIqB"><mutation duplicateondrag="true"></mutation><field name="VALUE">LOVE YOU</field></block></value><value name="dDS]t6qbX[wo$$@tN|,2"><block type="argument_reporter_custom" id="GXUB4R5)_*WZHr3jYMp_"><mutation duplicateondrag="true" typename="Image"></mutation><field name="VALUE">SRDCE</field></block></value><statement name="STACK"><block type="device_show_leds" id="}vtfW)HB!jnK,G%,hV}("><field name="LEDS">`
+        . # . . . 
+        . # . . . 
+        . # . . . 
+        . # . . . 
+        . # # # .
+        `</field><next><block type="device_show_leds" id=")9[E1c[Mz%x{h$ghH~o#"><field name="LEDS">`
+        . # . # . 
+        # . # . # 
+        # . . . # 
+        . # . # . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="[aYG8bubswUmM!F8mx{H"><field name="LEDS">`
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        . # . # . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="Dc0aX0Bk$o4Ay(h++SJT"><field name="LEDS">`
+        # # # # . 
+        # . . . . 
+        # # # # . 
+        # . . . . 
+        # # # # .
+        `</field><next><block type="device_show_leds" id="UJj3],!{cSY4L^C/w|CP"><field name="LEDS">`
+        # . . . # 
+        . # . # . 
+        . . # . . 
+        . . # . . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="bI(z;f[v*2:|31SvJ0xW"><field name="LEDS">`
+        . # . # . 
+        # . # . # 
+        # . . . # 
+        . # . # . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="L@1jGVgFP#Jdhey9IG@O"><field name="LEDS">`
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        . # # # .
+        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="device_forever" id="AO326;1?~FENrb`XX6c(" x="318" y="2"></block><block type="argument_reporter_custom" id="`v;*Z]60$Bbo1Z?u[N*D" disabled-reasons="ORPHANED_BLOCK,MANUALLY_DISABLED" x="284" y="80"><mutation typename="Image"></mutation><field name="VALUE">SRDCE</field></block></xml>
